@@ -22,4 +22,4 @@ contact developer: https://t.me/tiktokreportapp
 automated tool for sending bulk reports to tiktok IDs, fast mass report bot and take downs
 
 # tiktok reporter
-tiktok report gigs are available
+tiktok report gigs are always available
